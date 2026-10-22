@@ -13,8 +13,8 @@ website:
   navbar: 
     pinned: true
     left: 
-      - text: Overview
-        file: index.qmd
+      - text: "Forrest Stewart"
+        file: forreststewart.qmd
       - text: Dataset Details
         menu:
         - text: "Luke Maloney"
