@@ -1,12 +1,11 @@
 ---
 title: "Data Collection Facts Label"
+format:
+  html
 execute:
   echo: false
   warning: false
   message: false
-format:
-  html:
-    to: pdf
 ---
 
 ```{r}
