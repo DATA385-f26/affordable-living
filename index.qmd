@@ -4,7 +4,7 @@ title: "Investigating a Dataset's Ingredients"
 
 ## Topic Area
 
-Our topic is Living Affordability.  
+Our topic is **Cost of Living**.  
 We chose it because it is something that affects everyone's lives.
 
 ## Research Question

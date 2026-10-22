@@ -1,0 +1,69 @@
+---
+title: "Comparative Analysis"
+format: html
+---
+
+**General Topic:** Cost of Living
+
+**Research Question:** How has the cost of living in the United States changed post-pandemic?
+
+---
+
+**Trustworthiness/reputability**
+
+What documentation is available for each source?
+
+- For the [American Affordability Tracker](https://datacatalog.urban.org/dataset/american-affordability-tracker), there is a [Technical Appendix PDF](https://www.urban.org/sites/default/files/files-wysiwyg/2025-10/The_American_Affordability_Tracker_Technical_Appendix_1028.pdf), Data dictionary CSV, and ID variables dictionary CSV.
+
+What information is missing, unclear, or not stated in each source?
+
+- For the American Affordability Tracker, some information that is missing includes the exact details regarding the methods that were used for collecting the various pieces of data.
+
+What limitations or data quality issues might come from how each source was collected?
+
+- For the American Affordability Tracker, there could be some limitations or data quality issues regarding the consistency of how data is represented throughout the datasets given that the data sources and collection methods varied.
+
+
+
+**Degree of relevance to research question**
+
+How do the collection methods affect what kinds of conclusions someone could make?
+
+- For the American Affordability Tracker, the documentation noted that data for some congressional districts may not be available, so conclusions regarding those congressional districts specifically or congressional districts collectively might not be possible to make.
+
+In order to answer your research question, would you be employing any of the variables as proxies?
+
+- For the American Affordability Tracker, I don’t think any single variable would be used as a proxy to answer the research question, but all of the variables collectively could be considered as a proxy for cost of living. 
+
+If you could improve one source, what additional data would you add?
+
+- For the American Affordability Tracker, an additional piece of data I would add would be another measure of inflation over time other than CPI, such as PCE or PPI.
+
+
+
+**Ethical soundness**
+
+What possible bias might be present in either source?
+
+- For the American Affordability Tracker, there is a possible bias toward painting a negative picture in regards to cost of living in the United States. This is because the [Urban Institute](https://www.urban.org/) funded the dataset, and their goal as a nonprofit organization is to equip changemakers with evidence and solutions to improve lives and strengthen communities.
+
+What ethical concerns might be connected to either source?
+
+- For the American Affordability Tracker, there is a possible ethical concern regarding how this data was collected as it is unclear if the individuals who make up the collective metrics were given the opportunity to give their consent.
+
+
+
+**Scope**
+
+What does one row, record, case, or entry represent in each source?
+
+- For the American Affordability Tracker, each row in most of the datasets represents a geographic region of the United States (national, state, congressional district) over a specific period of time.
+
+What populations do each dataset represent? Which is more relevant to your research question? Why?
+
+- For the American Affordability Tracker, each dataset represents households/consumers within a geographic region of the United States, either on the national level, state level, or congressional district level. The national and state levels are most relevant to our research question because the question is about the United States broadly, so congressional district granularity is not necessary.
+
+What other claims could someone reasonably make using these sources?
+
+- For the American Affordability Tracker, other claims someone could make include how cost of living varies across congressional districts, or how the prices of a specific resource like electricity varies across a region of the United States rather than cost of living generally.
+
