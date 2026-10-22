@@ -15,13 +15,19 @@ What documentation is available for each source?
 
 - For the [American Affordability Tracker](https://datacatalog.urban.org/dataset/american-affordability-tracker), there is a [Technical Appendix PDF](https://www.urban.org/sites/default/files/files-wysiwyg/2025-10/The_American_Affordability_Tracker_Technical_Appendix_1028.pdf), Data dictionary CSV, and ID variables dictionary CSV.
 
+- For [Food Affordability](https://catalog.data.gov/dataset/food-affordability), there is both a [Data Dictionary](https://data.chhs.ca.gov/dataset/0114f5bb-4975-419d-95d9-5f0179a8de06/resource/da6d5b83-bbde-4192-92cb-e575fc6417ca/download/foodaffordabilitydd.xlsx) XLSX file, and a [Narrative](https://data.chhs.ca.gov/dataset/0114f5bb-4975-419d-95d9-5f0179a8de06/resource/3ccd7a4b-890c-4db6-9811-8472dda2af4b/download/foodaffordabilitynarrativeexamples4-14-13.pdf) PDF file. 
+
 What information is missing, unclear, or not stated in each source?
 
 - For the American Affordability Tracker, some information that is missing includes the exact details regarding the methods that were used for collecting the various pieces of data.
 
+- For Food Affordability, the information regarding how the annual food costs were estimated seems to be more complicated than necessary. Additionally, this data is based on the American Community Survey, and certain variables are missing data on median income used in their calculation.  
+
 What limitations or data quality issues might come from how each source was collected?
 
 - For the American Affordability Tracker, there could be some limitations or data quality issues regarding the consistency of how data is represented throughout the datasets given that the data sources and collection methods varied.
+
+- For Food Affordability, the method of cost calculation could prove to be inaccurate or have a margin of error greater than that of a direct survey average. The missing income data could also skew some calculated ratios in an unseen direction.
 
 
 
@@ -31,13 +37,19 @@ How do the collection methods affect what kinds of conclusions someone could mak
 
 - For the American Affordability Tracker, the documentation noted that data for some congressional districts may not be available, so conclusions regarding those congressional districts specifically or congressional districts collectively might not be possible to make.
 
+- For Food Affordability, because the income data is based on a survey, there could be inherent bias in the data. This could be lower income families not having access to take the survey, or simply not having time. Also, this data was collected between 2006-2010, during the 2008 recession. This could have further impacts on the conclusions, if one is trying to use this data to gather a meaningful baseline of food affordability in California. 
+
 In order to answer your research question, would you be employing any of the variables as proxies?
 
 - For the American Affordability Tracker, I don’t think any single variable would be used as a proxy to answer the research question, but all of the variables collectively could be considered as a proxy for cost of living. 
 
+- For Food Affordability, I would like to employ the ratio of food cost to income to use a proxy variable for food affordability.
+
 If you could improve one source, what additional data would you add?
 
 - For the American Affordability Tracker, an additional piece of data I would add would be another measure of inflation over time other than CPI, such as PCE or PPI.
+
+- For Food Affordability, I would add data that involves measuring the actual prices of food items, rather than the amount people are spending on food. I believe that would more accurately reflect food affordability, because often times families need to spend less on food in order to be able to pay rent and utilities. 
 
 
 
@@ -47,9 +59,13 @@ What possible bias might be present in either source?
 
 - For the American Affordability Tracker, there is a possible bias toward painting a negative picture in regards to cost of living in the United States. This is because the [Urban Institute](https://www.urban.org/) funded the dataset, and their goal as a nonprofit organization is to equip changemakers with evidence and solutions to improve lives and strengthen communities.
 
+- For Food Affordability, there are statistical biases present in the data. Aside from the already mentioned reporting bias in low-income families, there is also a lack of representation for certain races disclosed in the documentation.  
+
 What ethical concerns might be connected to either source?
 
 - For the American Affordability Tracker, there is a possible ethical concern regarding how this data was collected as it is unclear if the individuals who make up the collective metrics were given the opportunity to give their consent.
+
+- For Food Affordability, the main ethical concern relates to the American Community Survey. This survey is legally mandated, and while there does exist legally binding privacy protections for respondents, mandating this kind of information to be submitted to the state raises ethical concerns regarding the right to privacy. 
 
 
 
@@ -59,11 +75,16 @@ What does one row, record, case, or entry represent in each source?
 
 - For the American Affordability Tracker, each row in most of the datasets represents a geographic region of the United States (national, state, congressional district) over a specific period of time.
 
+- For Food Affordability, each row represents a city in California. Data regarding average income, food costs, and family sizes are attributed to those counties.  
+
 What populations do each dataset represent? Which is more relevant to your research question? Why?
 
 - For the American Affordability Tracker, each dataset represents households/consumers within a geographic region of the United States, either on the national level, state level, or congressional district level. The national and state levels are most relevant to our research question because the question is about the United States broadly, so congressional district granularity is not necessary.
+
+- For Food Affordability, this dataset only represents female-headed households with children under 18. This is relevant to our research question because understanding family affordability in families is a major aspect of the funds that are required to live in the United States.
 
 What other claims could someone reasonably make using these sources?
 
 - For the American Affordability Tracker, other claims someone could make include how cost of living varies across congressional districts, or how the prices of a specific resource like electricity varies across a region of the United States rather than cost of living generally.
 
+- For Food Affordability, while the bay area is infamous for having a high cost of living, the affordability of food in that region actually is among the lowest in the state. This could indicate that high income present in that area is offsetting the food costs, showing that lower populated, more rural areas are more expensive to stay fed in. 
