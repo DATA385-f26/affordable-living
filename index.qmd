@@ -4,8 +4,9 @@ title: "Investigating a Dataset's Ingredients"
 
 ## Topic Area
 
-Introduce your topic area. What did you choose, why did you choose it? 
+Our topic is Living Affordability.  
+We chose it because it is something that affects everyone's lives.
 
 ## Research Question
 
-State your research question that you hope to answer with data. 
+How has the cost of living in the United States changed post-pandemic?

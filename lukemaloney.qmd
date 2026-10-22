@@ -1,8 +1,7 @@
 ---
 title: "Data Collection Facts Label"
 format:
-  pdf:
-    prefer-html: true
+  html
 execute:
   echo: false
   warning: false
